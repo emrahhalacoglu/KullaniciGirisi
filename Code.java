@@ -8,10 +8,7 @@ public class Code {
             sifre="JAVA101";
             boolean isUsernameSuccess=false;
             boolean isPasswordSuccess=false;
-            
-            
 
-            
             while(!isUsernameSuccess){
                 System.out.print("User Name : ");
                 userName=inp.nextLine();
