@@ -6,8 +6,7 @@ public class Code {
             String userName,password,karar,kullaniciAdi,sifre;
             kullaniciAdi="patika";
             sifre="JAVA101";
-            boolean isUsernameSuccess=false;
-            aaaaa
+
             System.out.print("User Name : ");
             userName=inp.nextLine();
             System.out.print("Password : ");
